@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pages",
+    "\\pages\\api",
+    "\\src",
+    "\\src\\SupportAdmin",
+    "\\src\\SupportEngine",
+    "\\src\\SupportEngine\\pages",
+    "\\src\\SupportEngine\\pages\\api"
+  ],
+  "SelectedNode": "\\src\\SupportEngine\\pages\\NameForm.js",
+  "PreviewInSolutionExplorer": false
+}
